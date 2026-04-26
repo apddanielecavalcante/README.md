@@ -1,6 +1,6 @@
 # 👩‍💻 Olá! Eu sou a Daniele Cavalcante - Eng. Software (estudante) | Neuropsicopedagoga  | Psicopedagoga 🧠✨
 
-🚀 Minha Jornada: Do Lúdico ao Lógico
+🚀 Minha Jornada: Do Lúdico ao Lógico |
 Minha transição para a Engenharia de Software é impulsionada pela crença de que a tecnologia deve ser uma ponte para o conhecimento e a inclusão.
 
 Minha base em Psicopedagogia, Neuropsicopedagogia e Inclusão me permite aplicar uma "lente humana" ao desenvolvimento:
